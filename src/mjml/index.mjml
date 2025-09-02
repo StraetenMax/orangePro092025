@@ -1,0 +1,59 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Parlons de votre entreprise</mj-title>
+    <mj-raw>
+      <meta charset="UTF-8">
+      <meta name='color-scheme' content='light'/>
+      <meta name='supported-color-schemes' content='light'/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
+    </mj-raw>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif"/>
+      <mj-class name="T30-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="500"/>
+      <mj-class name="T30-300" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="300"/>
+      <mj-class name="T20-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="20px" line-height="35px" font-weight="500"/>
+      <mj-class name="T18-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="25px" font-weight="500"/>
+      <mj-class name="T15-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="22px" font-weight="500"/>
+      <mj-class name="T16-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="500"/>
+      <mj-class name="T15-300" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="18px" font-weight="300"/>
+      <mj-class name="T12-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="13px" font-weight="400"/>
+      <mj-class name="T9-300" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="9px" line-height="11px" font-weight="300"/>
+      <mj-button padding="0" inner-padding="10px 45px" border-radius="20px" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="uppercase"></mj-button>
+      <mj-class name="bgT0" background-color="#000000"></mj-class>
+      <mj-class name="cT0" color="#000000"/>
+      <mj-class name="cTW" color="#ffffff"/>
+      <mj-class name="bgW" background-color="#ffffff"/>
+      <mj-class name="cO" color="#FF7900"/>
+      <mj-class name="bgO" background-color="#FF7900"/>
+    </mj-attributes>
+    <mj-breakpoint width="480px"></mj-breakpoint>
+  </mj-head>
+  <mj-body background-color="#ffffff" width="640px">
+    <mj-section padding="24px 30px" mj-class="bgT1">
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image align="left" padding="0" width="130px" src="./images/white+NGLogotype.png" alt="logo Netgear en noir"/>
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-text align="right" padding="0" mj-class="T9-400" color="#ababab" text-transform="uppercase" letter-spacing="2px"><a style="text-decoration:none;color:#ababab;" href="#">version en ligne&nbsp;&#x23f5;</a></mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image src="./images/LogoOr.png" alt=""/>
+      </mj-column>
+      <mj-column>
+        <mj-text>Et si nous parlions de votre entreprise ?</mj-text>
+        <mj-text>Nous vous attendons en boutique à la date de votre choix.</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./images/personnage.png" alt=""/>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
