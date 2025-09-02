@@ -55,5 +55,21 @@
         <mj-image src="./images/personnage.png" alt=""/>
       </mj-column>
     </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text>Notre équipe d'experts Pro de votre boutique Orange Tourcoing est heureuse de vous accueillir avec ou sans rendez-vous du mardi au samedi.</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./images/boutique.png" alt=""/>
+      </mj-column>
+      <mj-column>
+        <mj-text>6 Grand Place</mj-text>
+        <mj-text>59200 Tourcoing</mj-text>
+        <mj-button>Prendre rendez-vous</mj-button>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text>Réservez un créneau horaire dans votre boutique et nous vous garantissons un gain de temps, c'est vraiment facile.</mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
