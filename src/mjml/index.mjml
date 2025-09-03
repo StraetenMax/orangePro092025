@@ -90,6 +90,13 @@
       <mj-column>
         <mj-text><img src="./images/appli.png" alt=""/>Appli Orange Pro</mj-text>
       </mj-column>
+      <mj-column>
+        <mj-social>
+          <mj-social-element>name="facebook" href="https://www.facebook.com/OrangePro" alt="Facebook" background-color="#3b5998"</mj-social-element>
+          <mj-social-element>name="twitter" href="https://twitter.com/OrangePro" alt="Twitter" background-color="#55acee"</mj-social-element>
+          <mj-social-element>name="linkedin" href="https://www.linkedin.com/showcase/orange-pro/" alt="LinkedIn" background-color="#0077b5"</mj-social-element>
+        </mj-social>
+      </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
