@@ -13,9 +13,8 @@
     </mj-raw>
     <mj-attributes>
       <mj-all font-family="Arial, Helvetica, sans-serif"/>
-      <mj-class name="T30-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="500"/>
-      <mj-class name="T30-300" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="300"/>
-      <mj-class name="T20-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="20px" line-height="35px" font-weight="500"/>
+      <mj-class name="T30-700" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="700"/>
+      <mj-class name="T25-700" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="25px" line-height="40px" font-weight="700"/>
       <mj-class name="T18-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="25px" font-weight="500"/>
       <mj-class name="T15-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="22px" font-weight="500"/>
       <mj-class name="T16-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="500"/>
@@ -43,16 +42,16 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgT0">
       <mj-column width="100%">
-        <mj-image src="./images/LogoOr.png" alt=""/>
+        <mj-image padding="0" width="640px" src="./images/LogoOr.png" alt=""/>
       </mj-column>
-      <mj-column>
-        <mj-text>Et si nous parlions de votre entreprise ?</mj-text>
-        <mj-text>Nous vous attendons en boutique à la date de votre choix.</mj-text>
+      <mj-column width="50%">
+        <mj-text mj-class="T30-700 cO">Et si nous parlions de votre entreprise ?</mj-text>
+        <mj-text mj-class="T25-700 cTW">Nous vous attendons en boutique à la date de votre choix.</mj-text>
       </mj-column>
-      <mj-column>
-        <mj-image src="./images/personnage.png" alt=""/>
+      <mj-column width="50%">
+        <mj-image padding="0" width="253px" src="./images/personnage.png" alt=""/>
       </mj-column>
     </mj-section>
     <mj-section>
