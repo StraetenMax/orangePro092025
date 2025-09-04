@@ -15,13 +15,13 @@
       <mj-all font-family="Arial, Helvetica, sans-serif"/>
       <mj-class name="T30-700" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="700"/>
       <mj-class name="T25-700" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="25px" line-height="40px" font-weight="700"/>
+      <mj-class name="T15-700" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="700"/>
       <mj-class name="T18-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="25px" font-weight="500"/>
-      <mj-class name="T15-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="22px" font-weight="500"/>
       <mj-class name="T16-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="500"/>
       <mj-class name="T15-300" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="18px" font-weight="300"/>
       <mj-class name="T12-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="13px" font-weight="400"/>
       <mj-class name="T9-300" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="9px" line-height="11px" font-weight="300"/>
-      <mj-button padding="0" inner-padding="10px 45px" border-radius="20px" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="uppercase"></mj-button>
+      <mj-button padding="0" inner-padding="10px 45px" border-radius="0px" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="700" color="#ffffff" background-color="#FF7900">           //- Black colors text</mj-button>
       <mj-class name="bgT0" background-color="#000000"></mj-class>
       <mj-class name="cT0" color="#000000"/>
       <mj-class name="cTW" color="#ffffff"/>
@@ -54,22 +54,24 @@
         <mj-image padding="0" width="253px" src="./images/personnage.png" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column width="100%">
-        <mj-text>Notre équipe d'experts Pro de votre boutique Orange Tourcoing est heureuse de vous accueillir avec ou sans rendez-vous du mardi au samedi.</mj-text>
-      </mj-column>
-      <mj-column>
-        <mj-image src="./images/boutique.png" alt=""/>
-      </mj-column>
-      <mj-column>
-        <mj-text>6 Grand Place</mj-text>
-        <mj-text>59200 Tourcoing</mj-text>
-        <mj-button>Prendre rendez-vous</mj-button>
-      </mj-column>
-      <mj-column width="100%">
-        <mj-text>Réservez un créneau horaire dans votre boutique et nous vous garantissons un gain de temps, c'est vraiment facile.</mj-text>
-      </mj-column>
-    </mj-section>
+    <mj-wrapper mj-class="bgT0" padding="20px 32px">
+      <mj-section padding="10px" border="2px solid #FF7900">
+        <mj-column width="100%">
+          <mj-text padding="0px" align="center" mj-class="T15-700 cTW">Notre équipe d'experts Pro de votre boutique Orange Tourcoing est heureuse de vous accueillir avec ou sans rendez-vous du mardi au samedi.</mj-text>
+        </mj-column>
+        <mj-column width="50%" vertical-align="middle">
+          <mj-image src="./images/boutique.png" alt=""/>
+        </mj-column>
+        <mj-column width="50%" vertical-align="middle">
+          <mj-text align="center" mj-class="T15-700 cTW">6 Grand Place</mj-text>
+          <mj-text align="center" mj-class="T15-700 cTW">59200 Tourcoing</mj-text>
+          <mj-button>Prendre rendez-vous</mj-button>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text padding="0px" align="center" mj-class="T15-700 cTW">Réservez un créneau horaire dans votre boutique et nous vous garantissons un gain de temps, c'est vraiment facile.</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
     <mj-section>
       <mj-column>
         <mj-text>Ensemble, voyons comment nous pouvons répondre à vos besoins :</mj-text>
@@ -92,9 +94,9 @@
       </mj-column>
       <mj-column>
         <mj-social>
-          <mj-social-element>name="facebook" href="https://www.facebook.com/OrangePro" alt="Facebook" background-color="#3b5998"</mj-social-element>
-          <mj-social-element>name="twitter" href="https://twitter.com/OrangePro" alt="Twitter" background-color="#55acee"</mj-social-element>
-          <mj-social-element>name="linkedin" href="https://www.linkedin.com/showcase/orange-pro/" alt="LinkedIn" background-color="#0077b5"</mj-social-element>
+          <mj-social-element name="facebook" href="https://www.facebook.com/OrangePro" alt="Facebook" background-color="#3b5998"></mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/OrangePro" alt="Twitter" background-color="#55acee"></mj-social-element>
+          <mj-social-element name="linkedin" href="https://www.linkedin.com/showcase/orange-pro/" alt="LinkedIn" background-color="#0077b5"></mj-social-element>
         </mj-social>
       </mj-column>
     </mj-section>
