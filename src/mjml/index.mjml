@@ -57,18 +57,18 @@
     <mj-wrapper mj-class="bgT0" padding="20px 32px">
       <mj-section padding="10px" border="2px solid #FF7900">
         <mj-column width="100%">
-          <mj-text padding="0px" align="center" mj-class="T15-700 cTW">Notre équipe d'experts Pro de votre boutique Orange Tourcoing est heureuse de vous accueillir avec ou sans rendez-vous du mardi au samedi.</mj-text>
+          <mj-text padding="0px" align="center" mj-class="T15-600 cTW">Notre équipe d'experts Pro de votre boutique Orange Tourcoing est heureuse de vous accueillir avec ou sans rendez-vous du mardi au samedi.</mj-text>
         </mj-column>
         <mj-column width="50%" vertical-align="middle">
           <mj-image src="./images/boutique.png" alt=""/>
         </mj-column>
         <mj-column width="50%" vertical-align="middle">
-          <mj-text align="center" mj-class="T15-700 cTW">6 Grand Place</mj-text>
-          <mj-text align="center" mj-class="T15-700 cTW">59200 Tourcoing</mj-text>
+          <mj-text align="center" mj-class="T15-600 cTW">6 Grand Place</mj-text>
+          <mj-text align="center" mj-class="T15-600 cTW">59200 Tourcoing</mj-text>
           <mj-button>Prendre rendez-vous</mj-button>
         </mj-column>
         <mj-column width="100%">
-          <mj-text padding="0px" align="center" mj-class="T15-700 cTW">Réservez un créneau horaire dans votre boutique et nous vous garantissons un gain de temps, c'est vraiment facile.</mj-text>
+          <mj-text padding="0px" align="center" mj-class="T15-600 cTW">Réservez un créneau horaire dans votre boutique et nous vous garantissons un gain de temps, c'est vraiment facile.</mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
