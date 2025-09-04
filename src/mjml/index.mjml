@@ -15,7 +15,7 @@
       <mj-all font-family="Arial, Helvetica, sans-serif"/>
       <mj-class name="T30-700" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="700"/>
       <mj-class name="T25-700" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="25px" line-height="40px" font-weight="700"/>
-      <mj-class name="T15-700" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="700"/>
+      <mj-class name="T15-600" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="600"/>
       <mj-class name="T18-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="25px" font-weight="500"/>
       <mj-class name="T16-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="500"/>
       <mj-class name="T15-300" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="18px" font-weight="300"/>
@@ -72,14 +72,14 @@
         </mj-column>
       </mj-section>
     </mj-wrapper>
-    <mj-section>
+    <mj-section mj-class="bgT0">
       <mj-column>
-        <mj-text>Ensemble, voyons comment nous pouvons répondre à vos besoins :</mj-text>
-        <mj-text>protéger vos équipements et les données personnelles de vos clients</mj-text>
-        <mj-text>améliorer votre visibilité sur le web</mj-text>
-        <mj-text>faciliter votre activité même en déplacement</mj-text>
-        <mj-text>A tout de suite ! </mj-text>
-        <mj-text> <img src="./images/signature.png" alt=""/>le directeur de la Boutique Orange de Tourcoing.</mj-text>
+        <mj-text mj-class="T15-600 cO">Ensemble, voyons comment nous pouvons répondre à vos besoins :</mj-text>
+        <mj-text mj-class="T15-600 cTW"><span style="display: inline-block; width: 8px; height: 8px; background-color: #ff7900;"></span> <span style="padding-left: 15px;"></span> protéger vos équipements et les données personnelles de vos clients</mj-text>
+        <mj-text mj-class="T15-600 cTW"><span style="display: inline-block; width: 8px; height: 8px; background-color: #ff7900;"></span> <span style="padding-left: 15px;"></span> améliorer votre visibilité sur le web</mj-text>
+        <mj-text mj-class="T15-600 cTW"><span style="display: inline-block; width: 8px; height: 8px; background-color: #ff7900;"></span> <span style="padding-left: 15px;"></span> faciliter votre activité même en déplacement</mj-text>
+        <mj-text mj-class="T15-600 cTW">A tout de suite !</mj-text>
+        <mj-text mj-class="T15-600 cTW" vertical-align="middle"><img padding="0" width="45px" style="vertical-align: middle;" src="./images/signature.png" alt=""/>le directeur de la Boutique Orange de Tourcoing.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
