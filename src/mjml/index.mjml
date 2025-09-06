@@ -86,15 +86,15 @@
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgT0" padding="15px 0px">
-      <mj-column width="30%">
+      <mj-column width="30%" padding="0px 10px 0px 20px">
         <mj-text padding="0" align="center" mj-class="T14-700 cTW" vertical-align="middle">Retrouvez-nous sur :</mj-text>
       </mj-column>
       <mj-group width="70%">
         <mj-column width="33.333333%">
-          <mj-text padding="0" mj-class="T13-700 cTW" vertical-align="middle"><img padding="0" width="28px" style="vertical-align: middle;" src="./images/monde.gif" alt=""/>Orange Pro</mj-text>
+          <mj-text padding="0" mj-class="T13-700 cTW" vertical-align="middle"><img padding="0" width="28px" style="vertical-align: middle;" src="./images/monde.gif" alt=""/><span style="padding=10px 0px 10px 10px">Orange Pro</span></mj-text>
         </mj-column>
         <mj-column width="33.333333%">
-          <mj-text padding="0" mj-class="T13-700 cTW" vertical-align="middle"><img padding="0" width="32px" style="vertical-align: middle;" src="./images/appli.png" alt=""/>Appli Orange Pro</mj-text>
+          <mj-text padding="0" mj-class="T13-700 cTW" vertical-align="middle"><img padding="0" width="32px" style="vertical-align: middle;" src="./images/appli.png" alt=""/><span style="padding=10px 0px 10px 10px">Appli Orange Pro</span></mj-text>
         </mj-column>
         <mj-column width="33.333333%">
           <mj-social padding="0" icon-size="32px" mode="horizontal" vertical-align="middle">
