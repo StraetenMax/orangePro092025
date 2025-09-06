@@ -19,9 +19,7 @@
       <mj-class name="T14-700" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="16px" font-weight="700"/>
       <mj-class name="T10-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="12px" font-weight="400"/>
       <mj-class name="T13-700" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="16px" font-weight="700"/>
-      <mj-class name="T16-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="500"/>
-      <mj-class name="T12-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="13px" font-weight="400"/>
-      <mj-button padding="0" inner-padding="10px 45px" border-radius="0px" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="700" color="#ffffff" background-color="#FF7900">           //- Black colors text</mj-button>
+      <mj-button padding="0" inner-padding="10px 65px" border-radius="0px" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="700" color="#ffffff" background-color="#FF7900"></mj-button>
       <mj-class name="bgT0" background-color="#000000"></mj-class>
       <mj-class name="cT0" color="#000000"/>
       <mj-class name="cTW" color="#ffffff"/>
@@ -56,21 +54,23 @@
         <mj-image padding="0" width="253px" src="./images/personnage.png" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-wrapper mj-class="bgT0" padding="20px 32px">
+    <mj-wrapper mj-class="bgT0" padding="20px 34px">
       <mj-section padding="10px" border="2px solid #FF7900">
         <mj-column width="100%">
-          <mj-text padding="0px" align="center" mj-class="T15-600 cTW">Notre équipe d'experts Pro de votre boutique Orange Tourcoing est heureuse de vous accueillir avec ou sans rendez-vous du mardi au samedi.</mj-text>
+          <mj-text padding="0" align="center" mj-class="T15-600 cTW">Notre équipe d'experts Pro de votre <span style="color:#FF7900;">boutique Orange Tourcoing</span> est heureuse de vous accueillir avec ou sans rendez-vous du mardi au samedi.</mj-text>
+          <mj-spacer height="10px"/>
         </mj-column>
-        <mj-column width="50%" vertical-align="middle">
-          <mj-image src="./images/boutique.png" alt=""/>
+        <mj-column padding="10px 15px" width="40%" vertical-align="middle">
+          <mj-image padding="0" width="202px" src="./images/boutique.png" alt=""/>
         </mj-column>
-        <mj-column width="50%" vertical-align="middle">
+        <mj-column width="60%" vertical-align="middle">
           <mj-text align="center" mj-class="T15-600 cTW">6 Grand Place</mj-text>
           <mj-text align="center" mj-class="T15-600 cTW">59200 Tourcoing</mj-text>
           <mj-button>Prendre rendez-vous</mj-button>
         </mj-column>
         <mj-column width="100%">
-          <mj-text padding="0px" align="center" mj-class="T15-600 cTW">Réservez un créneau horaire dans votre boutique et nous vous garantissons un gain de temps, c'est vraiment facile.</mj-text>
+          <mj-spacer height="10px"/>
+          <mj-text padding="0" align="center" mj-class="T15-600 cTW">Réservez un créneau horaire dans votre boutique et nous vous garantissons un gain de temps, c'est vraiment facile.</mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
