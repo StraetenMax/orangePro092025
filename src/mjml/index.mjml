@@ -74,14 +74,14 @@
         </mj-column>
       </mj-section>
     </mj-wrapper>
-    <mj-section mj-class="bgT0">
+    <mj-section mj-class="bgT0" padding="0px">
       <mj-column>
-        <mj-text mj-class="T15-600 cO">Ensemble, voyons comment nous pouvons répondre à vos besoins :</mj-text>
-        <mj-text mj-class="T15-600 cTW"><span style="display: inline-block; width: 8px; height: 8px; background-color: #ff7900;"></span> <span style="padding-left: 15px;"></span> protéger vos équipements et les données personnelles de vos clients</mj-text>
-        <mj-text mj-class="T15-600 cTW"><span style="display: inline-block; width: 8px; height: 8px; background-color: #ff7900;"></span> <span style="padding-left: 15px;"></span> améliorer votre visibilité sur le web</mj-text>
-        <mj-text mj-class="T15-600 cTW"><span style="display: inline-block; width: 8px; height: 8px; background-color: #ff7900;"></span> <span style="padding-left: 15px;"></span> faciliter votre activité même en déplacement</mj-text>
-        <mj-text mj-class="T15-600 cTW">A tout de suite !</mj-text>
-        <mj-text mj-class="T15-600 cTW" vertical-align="middle"><img padding="0" width="45px" style="vertical-align: middle;" src="./images/signature.png" alt=""/>le directeur de la Boutique Orange de Tourcoing.</mj-text>
+        <mj-text padding="0px 20px 5px 30px" mj-class="T15-600 cO">Ensemble, voyons comment nous pouvons répondre à vos besoins :</mj-text>
+        <mj-text padding="5px 20px 5px 30px" mj-class="T15-600 cTW"><span style="display: inline-block; width: 8px; height: 8px; background-color: #ff7900;"></span> <span style="padding-left: 15px;"></span> protéger vos équipements et les données personnelles de vos clients</mj-text>
+        <mj-text padding="5px 20px 5px 30px" mj-class="T15-600 cTW"><span style="display: inline-block; width: 8px; height: 8px; background-color: #ff7900;"></span> <span style="padding-left: 15px;"></span> améliorer votre visibilité sur le web</mj-text>
+        <mj-text padding="5px 20px 5px 30px" mj-class="T15-600 cTW"><span style="display: inline-block; width: 8px; height: 8px; background-color: #ff7900;"></span> <span style="padding-left: 15px;"></span> faciliter votre activité même en déplacement</mj-text>
+        <mj-text padding="20px" padding-left="30px" mj-class="T15-600 cTW">À tout de suite !</mj-text>
+        <mj-text padding="0" padding-left="15px" mj-class="T15-600 cTW" vertical-align="middle"><img padding="0" width="45px" style="vertical-align:middle;" src="./images/signature.png" alt=""/><span style="padding:10px 10px 10px 15px;">le directeur de la Boutique Orange de Tourcoing.</span> </mj-text>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgT0">
