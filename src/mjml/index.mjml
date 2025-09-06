@@ -81,10 +81,11 @@
         <mj-text padding="5px 20px 5px 30px" mj-class="T15-600 cTW"><span style="display: inline-block; width: 8px; height: 8px; background-color: #ff7900;"></span> <span style="padding-left: 15px;"></span> améliorer votre visibilité sur le web</mj-text>
         <mj-text padding="5px 20px 5px 30px" mj-class="T15-600 cTW"><span style="display: inline-block; width: 8px; height: 8px; background-color: #ff7900;"></span> <span style="padding-left: 15px;"></span> faciliter votre activité même en déplacement</mj-text>
         <mj-text padding="20px" padding-left="30px" mj-class="T15-600 cTW">À tout de suite !</mj-text>
-        <mj-text padding="0" padding-left="15px" mj-class="T15-600 cTW" vertical-align="middle"><img padding="0" width="45px" style="vertical-align:middle;" src="./images/signature.png" alt=""/><span style="padding:10px 10px 10px 15px;">le directeur de la Boutique Orange de Tourcoing.</span> </mj-text>
+        <mj-text padding="0" padding-left="15px" mj-class="T15-600 cTW" vertical-align="middle"><img padding="0" width="45px" style="vertical-align:middle;" src="./images/signature.png" alt=""/><span style="padding:10px 10px 10px 15px;">le directeur de la Boutique Orange de Tourcoing.</span></mj-text>
+        <mj-divider padding="0" width="100%" padding-top="20px" border-color="#FFFFFF" border-width="1px"/> 
       </mj-column>
     </mj-section>
-    <mj-section mj-class="bgT0">
+    <mj-section mj-class="bgT0" padding="15px 0px">
       <mj-column width="30%">
         <mj-text padding="0" align="center" mj-class="T14-700 cTW" vertical-align="middle">Retrouvez-nous sur :</mj-text>
       </mj-column>
@@ -104,13 +105,13 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section mj-class="bgT0">
+    <mj-section mj-class="bgT0" padding="5px 10px 10px 10px">
       <mj-column>
-        <mj-text mj-class="T10-400 cTW">Les informations vous concernant sont traitées par Orange à des fins d'analyses et de prospection commerciale. Vous disposez d’un droit d’accès, de rectification et de suppression des données qui vous concernent. Vous pouvez demander la portabilité de ces dernières. Vous avez également le droit de vous opposer aux traitements réalisés ou d’en demander la limitation. Vous pouvez émettre des directives quant au sort de vos données personnelles après votre décès. Pour exercer vos droits, utilisez le formulaire de contact en ligne ou écrivez à Orange Business Service, Agences Entreprises, Gestion des données personnelles, TSA 70007, 82008 Montauban.Votre demande devra être accompagnée d'éléments permettant de vous identifier.</mj-text>
-        <mj-text mj-class="T10-400 cTW">Nous vous rappelons qu'Orange ne vous demandera jamais vos coordonnées bancaires par courrier électronique.</mj-text>
-        <mj-text mj-class="T10-400 cTW">Pour ne plus recevoir de message type "conseils utiles à votre activité" à cette adresse, cliquez ici.</mj-text>
-        <mj-text mj-class="T10-400 cTW">© Copyright : Orange</mj-text>
-        <mj-text mj-class="T10-400 cTW">Orange SA au capital de 10 640 226 396 € - RCS 380 129 866 - 111, quai du Président Roosevelt 92130 Issy-les-Moulineaux – RCS Nanterre 380 129 866.</mj-text>
+        <mj-text padding="0" mj-class="T10-400 cTW">Les informations vous concernant sont traitées par Orange à des fins d'analyses et de prospection commerciale. Vous disposez d’un droit d’accès, de rectification et de suppression des données qui vous concernent. Vous pouvez demander la portabilité de ces dernières. Vous avez également le droit de vous opposer aux traitements réalisés ou d’en demander la limitation. Vous pouvez émettre des directives quant au sort de vos données personnelles après votre décès. Pour exercer vos droits, utilisez le formulaire de contact en ligne ou écrivez à Orange Business Service, Agences Entreprises, Gestion des données personnelles, TSA 70007, 82008 Montauban.Votre demande devra être accompagnée d'éléments permettant de vous identifier.</mj-text>
+        <mj-text padding="0" padding-top="10px" mj-class="T10-400 cTW">Nous vous rappelons qu'Orange ne vous demandera jamais vos coordonnées bancaires par courrier électronique.</mj-text>
+        <mj-text padding="0" padding-bottom="10px" mj-class="T10-400 cTW">Pour ne plus recevoir de message type "conseils utiles à votre activité" à cette adresse, cliquez ici.</mj-text>
+        <mj-text padding="0" mj-class="T10-400 cTW">© Copyright : Orange</mj-text>
+        <mj-text padding="0" mj-class="T10-400 cTW">Orange SA au capital de 10 640 226 396 € - RCS 380 129 866 - 111, quai du Président Roosevelt 92130 Issy-les-Moulineaux – RCS Nanterre 380 129 866.</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
